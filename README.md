@@ -1,10 +1,7 @@
 Hello world!
 
 
-My name is Tarciso. I have computation as a hobby. 
-
-
-[My Whatsapp](https://wa.me/5519992969405)
+My name is Tarciso Mesquita. I live in Campinas, Brazil. I have computation as a hobby. 
 
 
 [My Google Drive](https://bit.ly/tarcisomesquita)
@@ -14,4 +11,8 @@ My name is Tarciso. I have computation as a hobby.
 
 
 [My profile](https://www.blogger.com/profile/17814442605048326934)
+
+
+[My Whatsapp](https://wa.me/5519992969405)
+
 
